@@ -41,8 +41,8 @@
             <li><img src="img/pepsi3.png" height="40px" width="70px" onclick="imgSlider('img/pepsi3.png');changebgcolor('#1e1e1e')"> </li> 
         </ul>
         <ul class="sci">
-            <li><a href="#"><img src="img/facebook.png"></a></li>
-            <li><a href="#"><img src="img/twitter.png"></a></li> 
+            <li><a href="facebook.com"><img src="img/facebook.png"></a></li>
+            <li><a href="twitter.com"><img src="img/twitter.png"></a></li> 
             <li><a href="#"><img src="img/instagram.png"></a></li> 
         </ul>
     </section>
